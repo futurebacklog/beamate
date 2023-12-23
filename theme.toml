@@ -1,0 +1,38 @@
+name = "BEAMATE"
+license = "MIT"
+licenselink = "https://github.com/zeon-studio/beamate/blob/main/LICENSE"
+description = "Beamate is a free starter template built with Hugo"
+homepage = "https://github.com/beamate"
+demosite = "https://github.com/beamate"
+min_version = "0.1"
+
+tags = [
+  "blog",
+  "responsive",
+  "minimal",
+  "personal",
+  "light",
+  "dark",
+  "multilingual",
+  "landing",
+  "contact",
+  "dark mode",
+  "Rules",
+]
+
+features = [
+  "Multi-Authors",
+  "Search",
+  "Multilingual",
+  "Dark Mode",
+  "Taxonomies",
+]
+
+[author]
+name = "RDA"
+homepage = "https://beamate.org"
+
+[original]
+author = "RDA"
+homepage = "https://beamate.org"
+repo = "https://beamate.org"
